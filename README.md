@@ -153,6 +153,7 @@ npm run seed -- --reset
 
 ### AI Usage Note
 
-**AI Tools Used:** Google DeepMind's Antigravity Agent.
-**How AI Helped:** The AI entirely scaffolded the frontend and backend architectures, generated standard boilerplate, and implemented the core business logic including transactional stock updates and complex UI components. It automated the creation of the responsive dashboard, form validations using Zod, and database integrations.
-**Challenges Faced:** Ensuring the proper sequencing of directory creation and dependency installation via shell commands, which required fallback and retry mechanisms to handle environment specifics.
+The project utilized multiple AI tools throughout development: 
+ChatGPT : Requirement analysis, Architecture planning, Debugging assistance, Documentation support. 
+Google DeepMind Antigravity Agent : Feature implementation support,Development workflow assistance.
+OpenAI Codex : Code refinement. • Validation support, Troubleshooting and optimization.
