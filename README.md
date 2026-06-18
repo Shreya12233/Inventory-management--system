@@ -145,6 +145,10 @@ npm run seed -- --reset
 - Integration with external e-commerce platforms.
 - More granular reporting (e.g., sales over time).
 
+
+## Screenshort of the dashboard:
+<img width="1892" height="853" alt="Screenshot 2026-06-17 203649" src="https://github.com/user-attachments/assets/a48e7ca9-fa67-43cf-84e7-4cfe8c9e66fd" />
+
 ---
 
 ### AI Usage Note
